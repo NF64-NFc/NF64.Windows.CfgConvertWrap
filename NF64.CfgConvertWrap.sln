@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NF64.Windows.CfgConvertWrap", "NF64.Windows.CfgConvertWrap\NF64.Windows.CfgConvertWrap.csproj", "{E1FDA208-3237-4286-8306-59D6A82D451E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1FDA208-3237-4286-8306-59D6A82D451E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1FDA208-3237-4286-8306-59D6A82D451E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1FDA208-3237-4286-8306-59D6A82D451E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1FDA208-3237-4286-8306-59D6A82D451E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B5F7645-CE3B-4533-81F6-9188DDE50DED}
+	EndGlobalSection
+EndGlobal
