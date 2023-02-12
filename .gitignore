@@ -1,5 +1,7 @@
 # IDE - Visual Studio
 .vs/
+*.csproj.user
+*.user
 
 # IDE - Visual Studio - Compiled output
 bin/
